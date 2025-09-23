@@ -225,3 +225,7 @@ This allocator project builds **core systems-level skills** applicable across do
    * This project is a foundation for writing memory-safe embedded software.
 
 ---
+Quote:
+```
+I can not learn, what I can not create, that's the goal.
+```
