@@ -1,0 +1,22 @@
+# Fore Intellij IDEA
+.idea/
+.*iml/
+
+# For .vscode folder
+.vscode/
+
+# =========================
+# Build artifacts
+# =========================
+app           # compiled executable
+*.o           # object files
+*.out         # compiled output
+*.a           # static libraries
+*.so          # shared libraries
+
+# =========================
+# Linux editor / OS temp files
+# =========================
+*~            # editor backup files (gedit, nano, etc.)
+*.swp         # Vim swap files
+*.swo         # Vim swap files

@@ -1,0 +1,3 @@
+/home/abhishek/Downloads/MyAllProjects/mini-allocator/build/CMakeFiles/test_allocator.dir
+/home/abhishek/Downloads/MyAllProjects/mini-allocator/build/CMakeFiles/edit_cache.dir
+/home/abhishek/Downloads/MyAllProjects/mini-allocator/build/CMakeFiles/rebuild_cache.dir
