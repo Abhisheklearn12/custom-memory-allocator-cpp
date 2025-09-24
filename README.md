@@ -58,7 +58,7 @@ cmake --build .
 ```
 ### Note: For Re-run the project, follow this:
 ```
-# Enter into the directory (it's its already built).
+# Enter into the directory (it's already built).
 cd build
 
 # Configure and build
@@ -158,7 +158,7 @@ Sample run (addresses vary):
 * Replace heap buffer with **`mmap`/`VirtualAlloc`** for real OS-backed memory.
 * Build a **visualizer** to show heap fragmentation in real-time.
 
-#### Note: Will build its advanced version in another project like jemalloc(this is my goal) 
+#### Note: Will build its advanced version in another project like jemalloc(this is my goal). 
 ---
 
 ## Problems I Solved
